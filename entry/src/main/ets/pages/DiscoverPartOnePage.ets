@@ -1,0 +1,39 @@
+@Entry
+@Component
+export default struct partOne {
+  build() {
+    Column({space:10}){
+      Line()
+        .width('100%')
+        .height(20)
+        .startPoint([10,0])
+        .endPoint([395,0])
+        .stroke(Color.Black)
+      Row({space:30}){
+        Column({space:5}){
+          Image($r('app.media.gps'))
+            .width(40)
+          Text($r('app.string.travelHot'))
+        }
+        Column({space:5}){
+          Image($r('app.media.rader'))
+            .width(40)
+          Text($r('app.string.SquareDynamics'))
+        }
+        Column({space:5}){
+          Image($r('app.media.hotPot'))
+            .width(40)
+          Text($r('app.string.hotPlace'))
+        }
+        Column({space:5}){
+          Image($r('app.media.shop'))
+            .width(40)
+          Text($r('app.string.walkBuy'))
+        }
+      }
+    }
+    .width('100%')
+    .height(130)
+    .justifyContent(FlexAlign.Center)
+  }
+}

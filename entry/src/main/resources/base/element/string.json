@@ -1,0 +1,200 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "轻旅"
+    },
+    {
+      "name": "WelcomeText",
+      "value": "轻旅"
+    },
+    {
+      "name": "NavigateHome",
+      "value": "首页"
+    },
+    {
+      "name": "NavigateDiscovery",
+      "value": "发现"
+    },
+    {
+      "name": "NavigateMine",
+      "value": "我的"
+    },
+    {
+      "name": "LoginText",
+      "value": "登录"
+    },
+    {
+      "name": "RetrievePwd",
+      "value": "找回密码"
+    },
+    {
+      "name": "RegisterText",
+      "value": "注册"
+    },
+    {
+      "name": "LoginInput1",
+      "value": "请输入手机号/邮箱"
+    },
+    {
+      "name": "LoginInput2",
+      "value": "请输入登录密码"
+    },
+    {
+      "name": "RegisterInput",
+      "value": "请输入验证码"
+    },
+    {
+      "name": "GetCode",
+      "value": "获取验证码"
+    },
+    {
+      "name": "registerArg1",
+      "value": "注册即视为同意"
+    },
+    {
+      "name": "registerArg2",
+      "value": "轻旅服务协议"
+    },
+    {
+      "name": "back",
+      "value": "<返回"
+    },
+    {
+      "name": "coupons",
+      "value": "优惠券"
+    },
+    {
+      "name": "discount",
+      "value": "折扣卡"
+    },
+    {
+      "name": "shoppingCart",
+      "value": "购物车"
+    },
+    {
+      "name": "clickToLogin",
+      "value": "点击登录"
+    },
+    {
+      "name": "QRScan",
+      "value": "扫一扫"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "searchMsg",
+      "value": "目的地/景点/酒店/门票"
+    },
+    {
+      "name": "planeTicket",
+      "value": "飞机票"
+    },
+    {
+      "name": "hotelTicket",
+      "value": "住酒店"
+    },
+    {
+      "name": "goTravel",
+      "value": "去旅游"
+    },
+    {
+      "name": "goAround",
+      "value": "周边游"
+    },
+    {
+      "name": "buyTicket",
+      "value": "买门票"
+    },
+    {
+      "name": "trainTicket",
+      "value": "火车票"
+    },
+    {
+      "name": "carTicket",
+      "value": "汽车票"
+    },
+    {
+      "name": "getKilometer",
+      "value": "领里程"
+    },
+    {
+      "name": "internationalPlane",
+      "value": "国际机票"
+    },
+    {
+      "name": "visaServices",
+      "value": "签证服务"
+    },
+    {
+      "name": "planeJS",
+      "value": "飞机接送"
+    },
+    {
+      "name": "recommendText",
+      "value": "向羽绒服低头！广州比拉萨冷，23个省会级城市气温创新低"
+    },
+    {
+      "name": "liveText",
+      "value": "旅行直播"
+    },
+    {
+      "name": "liveText1",
+      "value": "发现美国好东西"
+    },
+    {
+      "name": "liveText2",
+      "value": "JAPAN首次直播"
+    },
+    {
+      "name": "travelHot",
+      "value": "旅行热讯"
+    },
+    {
+      "name": "SquareDynamics",
+      "value": "广场动态"
+    },
+    {
+      "name": "hotPlace",
+      "value": "热点动态"
+    },
+    {
+      "name": "walkBuy",
+      "value": "边走边买"
+    },
+    {
+      "name": "togetherGo",
+      "value": "结伴同行"
+    },
+    {
+      "name": "travelTips",
+      "value": "游历智囊"
+    },
+    {
+      "name": "travelLive",
+      "value": "旅行直播"
+    },
+    {
+      "name": "travelPk",
+      "value": "旅行PK"
+    },
+    {
+      "name": "support",
+      "value": "支持TA"
+    },
+    {
+      "name": "hotTop",
+      "value": "热门头条"
+    }
+  ]
+}

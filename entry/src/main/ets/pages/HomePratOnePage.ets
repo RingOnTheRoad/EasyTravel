@@ -1,0 +1,55 @@
+@Entry
+@Component
+export default struct partOne {
+  build() {
+    Column({space:10}){
+      Row({space:50}){
+        Column({space:5}){
+          Image($r('app.media.plane'))
+            .width(40)
+          Text($r('app.string.planeTicket'))
+        }
+        Column({space:5}){
+          Image($r('app.media.hotel'))
+            .width(40)
+          Text($r('app.string.planeTicket'))
+        }
+        Column({space:5}){
+          Image($r('app.media.travel'))
+            .width(40)
+          Text($r('app.string.goTravel'))
+        }
+        Column({space:5}){
+          Image($r('app.media.around'))
+            .width(40)
+          Text($r('app.string.goAround'))
+        }
+      }
+      Row({space:50}){
+        Column({space:5}){
+          Image($r('app.media.ticket'))
+            .width(40)
+          Text($r('app.string.buyTicket'))
+        }
+        Column({space:5}){
+          Image($r('app.media.train'))
+            .width(40)
+          Text($r('app.string.planeTicket'))
+        }
+        Column({space:5}){
+          Image($r('app.media.car'))
+            .width(40)
+          Text($r('app.string.buyTicket'))
+        }
+        Column({space:5}){
+          Image($r('app.media.kilometer'))
+            .width(40)
+          Text($r('app.string.getKilometer'))
+        }
+      }
+    }
+    .width('100%')
+    .height(170)
+    .justifyContent(FlexAlign.Center)
+  }
+}

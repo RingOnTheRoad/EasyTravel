@@ -1,0 +1,72 @@
+@Entry
+@Component
+export default struct partTwo {
+  build() {
+    Column(){
+      Line()
+      .width('100%')
+      .height(20)
+      .startPoint([10,0])
+      .endPoint([395,0])
+      .stroke(Color.Black)
+      Row(){
+        List({space:8}){
+          ListItem(){
+            Row({space:5}){
+              Image($r('app.media.C1'))
+                .width(25)
+              Text($r('app.string.internationalPlane'))
+                .fontSize(20)
+            }
+          }
+          ListItem(){
+            Row({space:5}){
+              Image($r('app.media.C2'))
+                .width(25)
+              Text($r('app.string.visaServices'))
+                .fontSize(20)
+            }
+          }
+          ListItem(){
+            Row({space:5}){
+              Image($r('app.media.C3'))
+                .width(25)
+              Text($r('app.string.planeJS'))
+                .fontSize(20)
+            }
+          }
+          ListItem(){
+            Row({space:5}){
+              Image($r('app.media.C1'))
+                .width(25)
+              Text($r('app.string.internationalPlane'))
+                .fontSize(20)
+            }
+          }
+          ListItem(){
+            Row({space:5}){
+              Image($r('app.media.C2'))
+                .width(25)
+              Text($r('app.string.visaServices'))
+                .fontSize(20)
+            }
+          }
+          ListItem(){
+            Row({space:5}){
+              Image($r('app.media.C3'))
+                .width(25)
+              Text($r('app.string.planeJS'))
+                .fontSize(20)
+            }
+          }
+        }
+        .width('100%')
+        .height('100%')
+        .listDirection(Axis.Horizontal)
+        .layoutWeight(1)
+      }
+      .padding({left: 5, right: 5})
+    }
+    .height(50)
+  }
+}

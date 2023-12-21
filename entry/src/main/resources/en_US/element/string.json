@@ -1,0 +1,200 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "EasyTravel"
+    },
+    {
+      "name": "WelcomeText",
+      "value": "EasyTravel"
+    },
+    {
+      "name": "NavigateHome",
+      "value": "Home"
+    },
+    {
+      "name": "NavigateDiscovery",
+      "value": "Discovery"
+    },
+    {
+      "name": "NavigateMine",
+      "value": "Mine"
+    },
+    {
+      "name": "LoginText",
+      "value": "Login"
+    },
+    {
+      "name": "RetrievePwd",
+      "value": "Retrieve"
+    },
+    {
+      "name": "RegisterText",
+      "value": "register"
+    },
+    {
+      "name": "LoginInput1",
+      "value": "please input Tel/Email"
+    },
+    {
+      "name": "LoginInput2",
+      "value": "please input Pwd"
+    },
+    {
+      "name": "RegisterInput",
+      "value": "please input Code"
+    },
+    {
+      "name": "GetCode",
+      "value": "Get Code"
+    },
+    {
+      "name": "registerArg1",
+      "value": "By registering, you agree to"
+    },
+    {
+      "name": "registerArg2",
+      "value": "Service Agreement For EasyTravel"
+    },
+    {
+      "name": "back",
+      "value": "<Back"
+    },
+    {
+      "name": "coupons",
+      "value": "Coupons"
+    },
+    {
+      "name": "discount",
+      "value": "Discount"
+    },
+    {
+      "name": "shoppingCart",
+      "value": "Cart"
+    },
+    {
+      "name": "clickToLogin",
+      "value": "clickLogin"
+    },
+    {
+      "name": "QRScan",
+      "value": "QRScan"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "searchMsg",
+      "value": "Destination/Sight/Hotel/Ticket"
+    },
+    {
+      "name": "planeTicket",
+      "value": "Airplane"
+    },
+    {
+      "name": "hotelTicket",
+      "value": "Hotel"
+    },
+    {
+      "name": "goTravel",
+      "value": "Travel"
+    },
+    {
+      "name": "goAround",
+      "value": "Surrounding"
+    },
+    {
+      "name": "buyTicket",
+      "value": "Ticket"
+    },
+    {
+      "name": "trainTicket",
+      "value": "Train"
+    },
+    {
+      "name": "carTicket",
+      "value": "Bus"
+    },
+    {
+      "name": "getKilometer",
+      "value": "GetKm"
+    },
+    {
+      "name": "internationalPlane",
+      "value": "IntPlane"
+    },
+    {
+      "name": "visaServices",
+      "value": "Visa"
+    },
+    {
+      "name": "planeJS",
+      "value": "Transfers"
+    },
+    {
+      "name": "recommendText",
+      "value": "Bow down to the down jacket! Guangzhou are colder than Lhasa."
+    },
+    {
+      "name": "liveText",
+      "value": "TravelLive"
+    },
+    {
+      "name": "liveText1",
+      "value": "Find American's Beautiful"
+    },
+    {
+      "name": "liveText2",
+      "value": "JAPAN Live First"
+    },
+    {
+      "name": "travelHot",
+      "value": "TravelHot"
+    },
+    {
+      "name": "SquareDynamics",
+      "value": "SquareDynamics"
+    },
+    {
+      "name": "hotPlace",
+      "value": "HotPlace"
+    },
+    {
+      "name": "walkBuy",
+      "value": "WalkBuy"
+    },
+    {
+      "name": "togetherGo",
+      "value": "Together"
+    },
+    {
+      "name": "travelTips",
+      "value": "TravelTips"
+    },
+    {
+      "name": "travelLive",
+      "value": "TravelLive"
+    },
+    {
+      "name": "travelPk",
+      "value": "TravelPK"
+    },
+    {
+      "name": "support",
+      "value": "SupportTA"
+    },
+    {
+      "name": "hotTop",
+      "value": "HotHeadlines"
+    }
+  ]
+}
